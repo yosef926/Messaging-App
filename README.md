@@ -12,9 +12,10 @@ Backend Architecture: Decoupled design for thread-safe broadcasting and real-tim
 
 ### How to Run  
 To ensure the messaging system initializes correctly, you must launch the components in the following order:  
-Start the Backend: Run the server by compiling and executing main.cpp located in the server folder.  
 
+Start the Backend: Run the server by compiling and executing main.cpp located in the server folder.  
 Start the Client: Run the messenger interface by executing MagshiChat.exe from the client folder.  
+
 Note: The server must be active before launching the client to allow the Winsock connection to be established successfully and enable real-time message relay.  
 
 
