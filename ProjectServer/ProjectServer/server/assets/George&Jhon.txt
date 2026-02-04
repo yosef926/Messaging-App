@@ -1,0 +1,5 @@
+&MAGSH_MESSAGE&&Author&Jhon&DATA&Hey George! How?s it going, man? How has your day been so far?
+&MAGSH_MESSAGE&&Author&George&DATA&Oh, hey John! It?s been pretty productive, actually. I managed to clear out most of my inbox this morning, so I?m feeling a bit lighter. How about you?
+&MAGSH_MESSAGE&&Author&Jhon&DATA&Not too bad! It started off a bit hectic with a late meeting, but things are finally starting to quiet down. Doing anything interesting later?
+&MAGSH_MESSAGE&&Author&George&DATA&Honestly, I?m just looking forward to hitting the gym and then crashing on the couch with some takeout. The usual Tuesday routine. What?s on your plate?
+&MAGSH_MESSAGE&&Author&Jhon&DATA&I think I?m going to try that new taco spot down the street. I?ve heard the carnitas are incredible.
